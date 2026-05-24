@@ -1,15 +1,15 @@
 ![I am a Programmer](https://media.licdn.com/dms/image/v2/D5616AQEr-ha7jBaVdg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725055348744?e=1730332800&v=beta&t=d1g_U_cqlidL0-8QDEg8hXtsynywcIP-6lgUl8i682c)
 
 ### Hi there 👋, my name is AL AMIN
-#### I am a Programmer
+#### Programmer & Cybersecurity Enthusiast
 
 
-A passionate programmer skilled in C++, Java and Oracle Database committed to developing software that is efficient and scalable. I enjoy tackling problems and keeping abreast of new technologies. Currently I'm seeking opportunities to participate in projects and improve my expertise in full stack development.
+CS Student passionate about programming, networking, and cybersecurity. Skilled in Python, C++, PostgreSQL, and MongoDB with a strong interest in becoming a Network Security Engineer. Always learning new technologies and improving through practical projects and problem solving.
 
-Skills: C++ / JAVA / ORACLE DATABASE
+Skills: Python / C++ /  PostgreSQL / MongoDB
 
-- 🔭 I’m currently working on Bookshop management project 
-- 🌱 I’m currently learning python 
+- 🔭 I’m currently working on linux 
+- 🌱 I’m currently learning wireshark 
 - 👯 I’m looking to collaborate on github 
 - 📫 How to reach me: mdalamin022612@gmail.com 
 
