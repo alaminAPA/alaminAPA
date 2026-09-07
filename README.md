@@ -51,7 +51,7 @@
 <br><br>
 
 <a href="YOUR_GOAD_REPO_LINK">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00E5FF?style=flat-square&logo=github&logoColor=020617">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0969DA?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -75,7 +75,7 @@
 <br><br>
 
 <a href="YOUR_HONEYPOT_REPO_LINK">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00E5FF?style=flat-square&logo=github&logoColor=020617">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-238636?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -98,7 +98,7 @@
 <br><br>
 
 <a href="YOUR_DETECTION_REPO_LINK">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00E5FF?style=flat-square&logo=github&logoColor=020617">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8250DF?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -121,7 +121,7 @@
 <br><br>
 
 <a href="YOUR_SURICATA_ELK_REPO_LINK">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00E5FF?style=flat-square&logo=github&logoColor=020617">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0969DA?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
