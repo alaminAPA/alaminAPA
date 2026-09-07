@@ -1,7 +1,7 @@
 <div align="center">
-  
+
 # MD AL AMIN
-<br>
+---
 
 <p align="center">
 <img src="https://img.shields.io/badge/NETWORK%20SECURITY-0969DA?style=for-the-badge&logo=cisco&logoColor=white">&nbsp;
@@ -11,23 +11,9 @@
 
 <br>
 
-<p align="center">
-<img src="https://img.shields.io/badge/10%2B-ATTACK%20SCENARIOS-0969DA?style=for-the-badge">&nbsp;
-<img src="https://img.shields.io/badge/5K%2B-HONEYPOT%20EVENTS-238636?style=for-the-badge">&nbsp;
-<img src="https://img.shields.io/badge/23-DETECTION%20RULES-8250DF?style=for-the-badge">
-</p>
-
-<br>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=mdalamin-infosec&label=PROFILE%20VIEWS&color=0969DA&style=flat-square">&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/mdalamin-infosec?label=FOLLOWERS&style=flat-square&color=238636&logo=github">
-</p>
-
 </div>
 
-<br><br>
-
+---
 <h2 align="center">⚡ GITHUB SIGNAL</h2>
 
 <p align="center">
@@ -37,12 +23,12 @@
   />
 </p>
 
-# 
+
 
 <div align="center">
 
-
-<h1>🚀 FEATURED SECURITY WORK</h1>
+---
+<h2>🚀 FEATURED SECURITY WORK</h2>
 
 <table>
 <tr>
@@ -148,6 +134,8 @@
 <div align="center">
 
 <br><br>
+
+---
 
 ## ⚙️ CORE STACK
 
