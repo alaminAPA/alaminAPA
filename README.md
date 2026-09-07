@@ -1,6 +1,12 @@
 <div align="center">
 
 # MD AL AMIN
+<p align="left">
+🛡️ CSE undergraduate focused on <b>Network Security, SOC / Blue Team & Threat Detection</b><br>
+📡 Hands-on with <b>Suricata, Elastic Stack, Wazuh, Nmap & Wireshark</b> through security labs<br>
+⚙️ Building <b>detection rules, network defense labs & security automation</b>
+</p>
+
 ---
 
 <p align="center">
@@ -11,9 +17,13 @@
 
 <br>
 
+
+<br>
+
 </div>
 
 ---
+
 <h2 align="center">⚡ GITHUB SIGNAL</h2>
 
 <p align="center">
@@ -23,11 +33,10 @@
   />
 </p>
 
-
-
 <div align="center">
 
 ---
+
 <h2>🚀 FEATURED SECURITY WORK</h2>
 
 <table>
@@ -56,7 +65,6 @@
 
 </td>
 
-
 <td width="25%" align="center" valign="top">
 
 <h3>🍯 Honeypot<br>&nbsp;</h3>
@@ -80,7 +88,6 @@
 
 </td>
 
-
 <td width="25%" align="center" valign="top">
 
 <h3>🎯 Detection<br>Engineering</h3>
@@ -102,7 +109,6 @@
 </a>
 
 </td>
-
 
 <td width="25%" align="center" valign="top">
 
